@@ -1,1 +1,1 @@
-### Github renamed to https://github.com/thomasnol
+### NOTE: This is my old username. To see my actual github account, checkout https://github.com/thomasnol
